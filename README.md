@@ -271,26 +271,7 @@ If you find this project helpful, please consider:
 - 📢 **Share** with fellow developers
 - 👨‍💻 **Contribute** to the codebase
 
-### Connect with the Developer
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/guthayaswanth0123)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/guthayaswanth28/)
-
-
-## 📞 Contact & Support
-
-Having issues? Need help?
-
-- 📧 **Email:** [guthayaswanth@gmail.com](guthayaswanth@gmail.com)
-- 🐛 **Issues:** [GitHub Issues](https://github.com/guthayaswanth0123/College-ERP/issues)
-- 💬 **Discussions:** [GitHub Discussions](https://github.com/guthayaswanth0123/College-ERP/discussions)
-
----
-
-<div align="center">
-
-
-**Made with ❤️ by [Gutha Yaswanth](https://github.com/guthayaswanth0123)**
 
 *If this project helped you, consider giving it a star! ⭐*
 
